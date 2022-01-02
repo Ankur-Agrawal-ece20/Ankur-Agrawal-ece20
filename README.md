@@ -1,8 +1,8 @@
 ### Hi there, I'm Ankur Agrawal - aka [Ankur][website] 👋 
 
-[![Coder Resume](https://img.shields.io/website?label=Coder&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/)
+[![Coder Resume](https://img.shields.io/website?label=Coder&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/src/CodingUreify.pdf)
 [![Developer Resume](https://img.shields.io/website?label=Developer&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/)
-[![Robotics Resume](https://img.shields.io/website?label=Robotics&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/)
+[![Robotics Resume](https://img.shields.io/website?label=Robotics&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/src/RoboticsUreify.pdf)
 ## I'm a Full Stack Web-Developer,  Competitive Programmer, and Robotics enthusiast!!
 
 - 🔭 I am a currently pursuing [B.Tech. in Electronics Engr. from IIT BHU][course]!
@@ -53,9 +53,9 @@
 
 </details>
 
-[Coder Resume]: https://ankur-agrawal-ece20.github.io/MyResume/
+[Coder Resume]: https://ankur-agrawal-ece20.github.io/MyResume/src/CodingUreify.pdf
 [Developer Resume]: https://ankur-agrawal-ece20.github.io/MyResume/
-[Robotics Resume]: https://ankur-agrawal-ece20.github.io/MyResume/
+[Robotics Resume]: https://ankur-agrawal-ece20.github.io/MyResume/src/RoboticsUreify.pdf
 [course]: https://www.iitbhu.ac.in/dept/ece
 [instagram]:https://www.instagram.com/ankuragrawal9455/
 [linkedin]: https://www.linkedin.com/in/ankur-agrawal-a7520a207
