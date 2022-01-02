@@ -3,6 +3,7 @@
 [![Coder Resume](https://img.shields.io/website?label=Coder&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/src/CodingUreify.pdf)
 [![Developer Resume](https://img.shields.io/website?label=Developer&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/)
 [![Robotics Resume](https://img.shields.io/website?label=Robotics&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/src/RoboticsUreify.pdf)
+<br/>
 ## I'm a Full Stack Web-Developer,  Competitive Programmer, and Robotics enthusiast!!
 
 - 🔭 I am a currently pursuing [B.Tech. in Electronics Engr. from IIT BHU][course]!
@@ -53,7 +54,7 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
-
+website
 [Coder Resume]: https://ankur-agrawal-ece20.github.io/MyResume/src/CodingUreify.pdf
 [Developer Resume]: https://ankur-agrawal-ece20.github.io/MyResume/
 [Robotics Resume]: https://ankur-agrawal-ece20.github.io/MyResume/src/RoboticsUreify.pdf
