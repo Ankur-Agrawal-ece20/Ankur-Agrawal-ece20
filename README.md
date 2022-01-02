@@ -46,6 +46,11 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   <!--START_SECTION:activity-->
+1. 💪 Opened PR [#6](https://github.com/ankur12-1610/lite-hai-backend/pull/6) in [ankur12-1610/lite-hai-backend](https://github.com/ankur12-1610/lite-hai-backend)
+2. 💪 Opened PR [#3](https://github.com/ankur12-1610/lite-hai-backend/pull/3) in [ankur12-1610/lite-hai-backend](https://github.com/ankur12-1610/lite-hai-backend)
+3. 💪 Opened PR [#3](https://github.com/SanidhyaTaparia/WeatherAppFrontend/pull/3) in [SanidhyaTaparia/WeatherAppFrontend](https://github.com/SanidhyaTaparia/WeatherAppFrontend)
+4. 💪 Opened PR [#16](https://github.com/yashjain715-creater/CTF-platform/pull/16) in [yashjain715-creater/CTF-platform](https://github.com/yashjain715-creater/CTF-platform)
+5. 💪 Opened PR [#15](https://github.com/yashjain715-creater/CTF-platform/pull/15) in [yashjain715-creater/CTF-platform](https://github.com/yashjain715-creater/CTF-platform)
   <!--END_SECTION:activity-->
 </details>
 
