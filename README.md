@@ -10,11 +10,11 @@
 - 🔭 I am a currently pursuing [B.Tech. in Electronics Engr. from IIT BHU][course]!
 - 🌱 I am passionate to join a reputed company to showcase my skills.
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and design.
+- ⚡ Fun fact: I love to draw and design.background-color: white;
 
 ### Connect with me:
 
-[<img align="left" style="background:white" alt="Ankur | Website" width="52px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" style="background-color: white;" alt="Ankur | Website" width="52px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ankur | LinkedIn" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ankur | Instagram" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Ankur | Codeforces" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][Codeforces]
