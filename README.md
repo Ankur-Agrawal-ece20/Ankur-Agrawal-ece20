@@ -2,19 +2,18 @@
 
 [![Website](https://img.shields.io/website?label=AboutMe&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/)
 
-## I'm a Student, Developer, Programmer, and robotics lover!!
+## I'm a Full Stack Web-Developer,  Competitive Programmer, and Robotics enthusiast!!
 
 - 🔭 I am a currently pursuing [B.Tech. in Electronics Engr. from IIT BHU][course]!
-- 🌱 I’m currently learning everything but I am passionate to join a reputed company to showcase my skills.
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I am passionate to join a reputed company to showcase my skills.
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and design.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ankur | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Ankur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ankur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
