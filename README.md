@@ -18,7 +18,6 @@
 [<img align="left" alt="Ankur | Codeforces" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][Codeforces]
 
 <br />
-<br />
 
 ### Languages I know:
 
