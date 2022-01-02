@@ -1,4 +1,4 @@
-### Hi there, I'm Ankur Agrawal - aka [Ankur][website] 👋 
+## Hi there, I'm Ankur Agrawal - aka [Ankur][website] 👋 
 
 [![CoderResume](https://img.shields.io/website?label=Coder&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/src/CodingUreify.pdf)
 [![DeveloperResume](https://img.shields.io/website?label=Developer&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/)
@@ -43,7 +43,7 @@
 
 ---
 
-:zap: Recent GitHub Activity
+### :zap: Recent GitHub Activity
   <!--START_SECTION:activity-->
 1. 💪 Opened PR [#6](https://github.com/ankur12-1610/lite-hai-backend/pull/6) in [ankur12-1610/lite-hai-backend](https://github.com/ankur12-1610/lite-hai-backend)
 2. 💪 Opened PR [#3](https://github.com/ankur12-1610/lite-hai-backend/pull/3) in [ankur12-1610/lite-hai-backend](https://github.com/ankur12-1610/lite-hai-backend)
@@ -54,7 +54,7 @@
 
 ---
 
-:zap: GitHub Stats
+### :zap: GitHub Stats
 
   <img align="left" alt="Ankur's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ankur-Agrawal-ece20&show_icons=true&hide_border=true&theme=radical" />
 
