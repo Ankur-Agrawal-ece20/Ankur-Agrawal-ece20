@@ -1,7 +1,8 @@
 ### Hi there, I'm Ankur Agrawal - aka [Ankur][website] 👋 
 
-[![Website](https://img.shields.io/website?label=AboutMe&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/)
-
+[![Coder Resume](https://img.shields.io/website?label=AboutMe&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/)
+[![Developer Resume](https://img.shields.io/website?label=AboutMe&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/)
+[![Robotics Resume](https://img.shields.io/website?label=AboutMe&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/)
 ## I'm a Full Stack Web-Developer,  Competitive Programmer, and Robotics enthusiast!!
 
 - 🔭 I am a currently pursuing [B.Tech. in Electronics Engr. from IIT BHU][course]!
