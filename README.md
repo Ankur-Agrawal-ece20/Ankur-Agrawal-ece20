@@ -53,7 +53,9 @@
 
 </details>
 
-[website]: https://ankur-agrawal-ece20.github.io/MyResume/
+[Coder Resume]: https://ankur-agrawal-ece20.github.io/MyResume/
+[Developer Resume]: https://ankur-agrawal-ece20.github.io/MyResume/
+[Robotics Resume]: https://ankur-agrawal-ece20.github.io/MyResume/
 [course]: https://www.iitbhu.ac.in/dept/ece
 [instagram]:https://www.instagram.com/ankuragrawal9455/
 [linkedin]: https://www.linkedin.com/in/ankur-agrawal-a7520a207
