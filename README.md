@@ -17,8 +17,6 @@
 [<img align="left" alt="Ankur | Instagram" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Ankur | Codeforces" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][Codeforces]
 
-<br />
-
 ### Languages I know:
 
 <img align="left"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
