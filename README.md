@@ -43,8 +43,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+:zap: Recent GitHub Activity
   <!--START_SECTION:activity-->
 1. 💪 Opened PR [#6](https://github.com/ankur12-1610/lite-hai-backend/pull/6) in [ankur12-1610/lite-hai-backend](https://github.com/ankur12-1610/lite-hai-backend)
 2. 💪 Opened PR [#3](https://github.com/ankur12-1610/lite-hai-backend/pull/3) in [ankur12-1610/lite-hai-backend](https://github.com/ankur12-1610/lite-hai-backend)
@@ -52,16 +51,13 @@
 4. 💪 Opened PR [#16](https://github.com/yashjain715-creater/CTF-platform/pull/16) in [yashjain715-creater/CTF-platform](https://github.com/yashjain715-creater/CTF-platform)
 5. 💪 Opened PR [#15](https://github.com/yashjain715-creater/CTF-platform/pull/15) in [yashjain715-creater/CTF-platform](https://github.com/yashjain715-creater/CTF-platform)
   <!--END_SECTION:activity-->
-</details>
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+:zap: GitHub Stats
 
   <img align="left" alt="Ankur's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ankur-Agrawal-ece20&show_icons=true&hide_border=true&theme=radical" />
 
-</details>
 
 [website]: https://ankur-agrawal-ece20.github.io/MyResume/
 [CoderResume]: https://ankur-agrawal-ece20.github.io/MyResume/src/CodingUreify.pdf
