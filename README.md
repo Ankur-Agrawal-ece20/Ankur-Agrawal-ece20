@@ -10,7 +10,7 @@
 - 🔭 I am a currently pursuing [B.Tech. in Electronics Engr. from IIT BHU][course]!
 - 🌱 I am passionate to join a reputed company to showcase my skills.
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and design.background-color: white;
+- ⚡ My Hobbies: I love to draw and design.
 
 ### Connect with me:
 
