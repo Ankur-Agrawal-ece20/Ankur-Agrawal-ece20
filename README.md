@@ -59,7 +59,7 @@
   <img align="left" alt="Ankur's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ankur-Agrawal-ece20&show_icons=true&hide_border=true&theme=radical" />
 
 
-[website]: https://ankur-agrawal-ece20.github.io/MyResume/
+[website]: https://ankur-agrawal-site.netlify.app/
 [CoderResume]: https://ankur-agrawal-ece20.github.io/MyResume/src/CodingUreify.pdf
 [DeveloperResume]: https://ankur-agrawal-ece20.github.io/MyResume/
 [RoboticsResume]: https://ankur-agrawal-ece20.github.io/MyResume/src/RoboticsUreify.pdf
