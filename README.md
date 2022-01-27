@@ -23,8 +23,6 @@
 <img align="left" alt="Ankur | LinkedIn" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 <img align="left" alt="Ankur | Codeforces" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" />
  
- <h3></h3>
- 
 <h3 align="left"> Languages I Know : </h3>
 
 
@@ -40,7 +38,20 @@
 <img align="left" alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left"  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-<img align="left" alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="lef<h3> :zap: GitHub Stats </h3>
+
+  <img align="left" alt="Ankur's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ankur-Agrawal-ece20&show_icons=true&hide_border=true&theme=radical" />
+
+
+[website]: https://ankur-agrawal-site.netlify.app/
+[CoderResume]: https://ankur-agrawal-ece20.github.io/MyResume/src/CodingUreify.pdf
+[DeveloperResume]: https://ankur-agrawal-ece20.github.io/MyResume/
+[RoboticsResume]: https://ankur-agrawal-ece20.github.io/MyResume/src/RoboticsUreify.pdf
+[course]: https://www.iitbhu.ac.in/dept/ece
+[instagram]:https://www.instagram.com/ankuragrawal9455/
+[linkedin]: https://www.linkedin.com/in/ankur-agrawal-a7520a207
+[Codeforces]: https://codeforces.com/profile/Ankur_Agrawal
+t" alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
  
  <br>
  
@@ -57,7 +68,7 @@
  
 <hr>
  
-<h3> :zap: GitHub Stats </h3>
+## :zap: GitHub Stats 
 
   <img align="left" alt="Ankur's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ankur-Agrawal-ece20&show_icons=true&hide_border=true&theme=radical" />
 
