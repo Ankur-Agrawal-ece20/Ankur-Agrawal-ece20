@@ -38,7 +38,7 @@
 <br/>
 <br/>
 
----
+<hr>
 
 ### :zap: Recent GitHub Activity
   <!--START_SECTION:activity-->
