@@ -4,7 +4,20 @@
 [![CoderResume](https://img.shields.io/website?label=Coder&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/src/CodingUreify.pdf)
 [![DeveloperResume](https://img.shields.io/website?label=Developer&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/)
 [![RoboticsResume](https://img.shields.io/website?label=Robotics&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/src/RoboticsUreify.pdf)
-<br/>
+<br/><h3> :zap: GitHub Stats </h3>
+
+  <img align="left" alt="Ankur's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ankur-Agrawal-ece20&show_icons=true&hide_border=true&theme=radical" />
+
+
+[website]: https://ankur-agrawal-site.netlify.app/
+[CoderResume]: https://ankur-agrawal-ece20.github.io/MyResume/src/CodingUreify.pdf
+[DeveloperResume]: https://ankur-agrawal-ece20.github.io/MyResume/
+[RoboticsResume]: https://ankur-agrawal-ece20.github.io/MyResume/src/RoboticsUreify.pdf
+[course]: https://www.iitbhu.ac.in/dept/ece
+[instagram]:https://www.instagram.com/ankuragrawal9455/
+[linkedin]: https://www.linkedin.com/in/ankur-agrawal-a7520a207
+[Codeforces]: https://codeforces.com/profile/Ankur_Agrawal
+
 
 ## I'm a Full Stack Web-Developer,  Competitive Programmer, and Robotics enthusiast!! 
 
@@ -24,7 +37,6 @@
 <img align="left" alt="Ankur | Codeforces" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" />
  
  <br>
- <hr>
  
 <h3 align="left"> Languages I Know : </h3>
 
