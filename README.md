@@ -19,9 +19,9 @@
 
 
 [<img align="left"  alt="Ankur | Website" width="40px" src="https://img.icons8.com/fluency/96/000000/globe.png" />][Website]
-<img align="left" alt="Ankur | Instagram" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-<img align="left" alt="Ankur | LinkedIn" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-<img align="left" alt="Ankur | Codeforces" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" />
+[<img align="left" alt="Ankur | Instagram" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />]instagram]
+[<img align="left" alt="Ankur | LinkedIn" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="Ankur | Codeforces" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" />[Codeforces]
  
  <br>
  <br>
