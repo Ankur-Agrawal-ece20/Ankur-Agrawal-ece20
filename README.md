@@ -34,6 +34,7 @@
 <img align="left" alt="Ankur | Codeforces" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" />
  
  <br>
+ <br>
  
 <h3 align="left"> Languages I Know : </h3>
 
@@ -61,6 +62,7 @@
 [linkedin]: https://www.linkedin.com/in/ankur-agrawal-a7520a207
 [Codeforces]: https://codeforces.com/profile/Ankur_Agrawal>
  
+ <br>
  <br>
  <hr>
  
