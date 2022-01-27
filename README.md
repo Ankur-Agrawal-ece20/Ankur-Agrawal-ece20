@@ -20,7 +20,7 @@
 [<img align="left" alt="Ankur | Codeforces" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" />][Codeforces]
 <br/>
 
-### Languages I know:
+<h2> Languages I know: </h2>
 
 <p style="height=max-content;">
 <img align="left"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
