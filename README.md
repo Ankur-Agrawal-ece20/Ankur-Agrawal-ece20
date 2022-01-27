@@ -55,6 +55,7 @@
  <br>
  Learning More
  <br>
+ <br>
  <hr>
  
 ## :zap: Recent GitHub Activity 
