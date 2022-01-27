@@ -21,6 +21,18 @@
   <img align="left" alt="Ankur | Codeforces" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" />
 </p>
   
+<h3 align="left"> Languages: </h3>
+
+
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
+ width="40" height="40" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+ width="40" height="40" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png" width="40" height="40" />
+  
 <h3> Languages I know: </h3>
 
 <p align="left">
