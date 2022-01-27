@@ -14,12 +14,12 @@
 
 ### Connect with me:
 
-[<img align="left"  alt="Ankur | Website" width="52px" src="https://img.icons8.com/fluency/96/000000/globe.png" />][website]
-[<img align="left" alt="Ankur | Instagram" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
-[<img align="left" alt="Ankur | LinkedIn" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-[<img align="left" alt="Ankur | Codeforces" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" />][Codeforces]
+<img align="left"  alt="Ankur | Website" width="52px" src="https://img.icons8.com/fluency/96/000000/globe.png" />
+<img align="left" alt="Ankur | Instagram" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+<img align="left" alt="Ankur | LinkedIn" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+<img align="left" alt="Ankur | Codeforces" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" />
 
-<h2> Languages I know: </h2>
+<h3> Languages I know: </h3>
 
 <p style="height=max-content;">
 <img align="left"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
