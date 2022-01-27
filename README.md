@@ -14,10 +14,12 @@
 
 ### Connect with me: 
 
-<img align="left"  alt="Ankur | Website" width="52px" src="https://img.icons8.com/fluency/96/000000/globe.png" />
-<img align="left" alt="Ankur | Instagram" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-<img align="left" alt="Ankur | LinkedIn" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-<img align="left" alt="Ankur | Codeforces" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" />
+<p align="left">
+ <img align="left"  alt="Ankur | Website" width="52px" src="https://img.icons8.com/fluency/96/000000/globe.png" />
+ <img align="left" alt="Ankur | Instagram" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+ <img align="left" alt="Ankur | LinkedIn" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+ <img align="left" alt="Ankur | Codeforces" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" />
+</p>
 
 ### Languages I know: 
 
