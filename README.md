@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Ankur Agrawal - aka <a href="https://ankur-agrawal-site.netlify.app/">Ankur</a> 👋  <h2>
+<h2> Hi there, I'm Ankur Agrawal - aka <a href="https://ankur-agrawal-site.netlify.app/">Ankur<a> 👋 <h2> 
 
 [![CoderResume](https://img.shields.io/website?label=Coder&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/src/CodingUreify.pdf)
 [![DeveloperResume](https://img.shields.io/website?label=Developer&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/)
@@ -41,7 +41,7 @@
   
 ---
 
-### :zap: Recent GitHub Activity
+<h3> :zap: Recent GitHub Activity </h3>
   <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com/Ankur-Agrawal-ece20/Polygot-CPP/pull/1) in [Ankur-Agrawal-ece20/Polygot-CPP](https://github.com/Ankur-Agrawal-ece20/Polygot-CPP)
 2. 💪 Opened PR [#1](https://github.com/Ankur-Agrawal-ece20/Polygot-CPP/pull/1) in [Ankur-Agrawal-ece20/Polygot-CPP](https://github.com/Ankur-Agrawal-ece20/Polygot-CPP)
@@ -52,7 +52,7 @@
 
 ---
 
-### :zap: GitHub Stats
+<h3> :zap: GitHub Stats </h3>
 
   <img align="left" alt="Ankur's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ankur-Agrawal-ece20&show_icons=true&hide_border=true&theme=radical" />
 
