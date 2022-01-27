@@ -24,6 +24,14 @@
 [<img align="left" alt="Ankur | Codeforces" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" />][Codeforces]
  
  <br>
+[website]: https://ankur-agrawal-site.netlify.app/
+[CoderResume]: https://ankur-agrawal-ece20.github.io/MyResume/src/CodingUreify.pdf
+[DeveloperResume]: https://ankur-agrawal-ece20.github.io/MyResume/
+[RoboticsResume]: https://ankur-agrawal-ece20.github.io/MyResume/src/RoboticsUreify.pdf
+[course]: https://www.iitbhu.ac.in/dept/ece
+[instagram]:https://www.instagram.com/ankuragrawal9455/
+[linkedin]: https://www.linkedin.com/in/ankur-agrawal-a7520a207
+[Codeforces]: https://codeforces.com/profile/Ankur_Agrawal>
  <br>
  
 <h3 align="left"> Languages I Know : </h3>
@@ -42,17 +50,9 @@
 <img align="left" alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left"  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
  </div>
+
  
-[website]: https://ankur-agrawal-site.netlify.app/
-[CoderResume]: https://ankur-agrawal-ece20.github.io/MyResume/src/CodingUreify.pdf
-[DeveloperResume]: https://ankur-agrawal-ece20.github.io/MyResume/
-[RoboticsResume]: https://ankur-agrawal-ece20.github.io/MyResume/src/RoboticsUreify.pdf
-[course]: https://www.iitbhu.ac.in/dept/ece
-[instagram]:https://www.instagram.com/ankuragrawal9455/
-[linkedin]: https://www.linkedin.com/in/ankur-agrawal-a7520a207
-[Codeforces]: https://codeforces.com/profile/Ankur_Agrawal>
- 
- <br>G
+ <br>
  <br>
  <hr>
  
