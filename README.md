@@ -7,7 +7,7 @@
 <br/>
 
 <h2> I'm a Full Stack Web-Developer,  Competitive Programmer, and Robotics enthusiast!! <h2>
- 
+ <h3></h3>
 - 🔭 I am a currently pursuing [B.Tech. in Electronics Engr. from IIT BHU][course]!
 - 🌱 I am passionate to join a reputed company to showcase my skills.
 - 🥅 2022 Goals: Contribute more to Open Source projects
