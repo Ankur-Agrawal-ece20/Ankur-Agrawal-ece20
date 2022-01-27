@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Ankur Agrawal - aka <a href="https://ankur-agrawal-site.netlify.app/">Ankur</a> 👋  <h1>
+<h2> Hi there, I'm Ankur Agrawal - aka <a href="https://ankur-agrawal-site.netlify.app/">Ankur</a> 👋  <h2>
 
 [![CoderResume](https://img.shields.io/website?label=Coder&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/src/CodingUreify.pdf)
 [![DeveloperResume](https://img.shields.io/website?label=Developer&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/)
