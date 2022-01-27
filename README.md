@@ -18,7 +18,6 @@
 [<img align="left" alt="Ankur | Instagram" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 [<img align="left" alt="Ankur | LinkedIn" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" alt="Ankur | Codeforces" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" />][Codeforces]
-<br/>
 
 <h2> Languages I know: </h2>
 
