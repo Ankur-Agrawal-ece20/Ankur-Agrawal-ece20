@@ -42,7 +42,7 @@
 <img align="left" alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left"  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
  </div>
-G
+ 
 [website]: https://ankur-agrawal-site.netlify.app/
 [CoderResume]: https://ankur-agrawal-ece20.github.io/MyResume/src/CodingUreify.pdf
 [DeveloperResume]: https://ankur-agrawal-ece20.github.io/MyResume/
@@ -52,7 +52,7 @@ G
 [linkedin]: https://www.linkedin.com/in/ankur-agrawal-a7520a207
 [Codeforces]: https://codeforces.com/profile/Ankur_Agrawal>
  
- <br>
+ <br>G
  <br>
  <hr>
  
