@@ -23,7 +23,6 @@
 [<img align="left" alt="Ankur | LinkedIn" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" alt="Ankur | Codeforces" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" />][Codeforces]
  
- <br>
 [website]: https://ankur-agrawal-site.netlify.app/
 [CoderResume]: https://ankur-agrawal-ece20.github.io/MyResume/src/CodingUreify.pdf
 [DeveloperResume]: https://ankur-agrawal-ece20.github.io/MyResume/
@@ -32,6 +31,8 @@
 [instagram]:https://www.instagram.com/ankuragrawal9455/
 [linkedin]: https://www.linkedin.com/in/ankur-agrawal-a7520a207
 [Codeforces]: https://codeforces.com/profile/Ankur_Agrawal>
+ 
+ <br>
  <br>
  
 <h3 align="left"> Languages I Know : </h3>
