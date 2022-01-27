@@ -11,15 +11,14 @@
 - 🌱 I am passionate to join a reputed company to showcase my skills.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ My Hobbies: I love to draw and design.
-Ankur-Agrawal-ece20/aayushsrivastava9760
+
+  
 <h3> Connect with me: </h3>
 
-<p align="left">
   <img align="left"  alt="Ankur | Website" width="52px" src="https://img.icons8.com/fluency/96/000000/globe.png" />
   <img align="left" alt="Ankur | Instagram" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
   <img align="left" alt="Ankur | LinkedIn" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
   <img align="left" alt="Ankur | Codeforces" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" />
-</p>
   
 <h3 align="left"> Languages I know: </h3>
 
