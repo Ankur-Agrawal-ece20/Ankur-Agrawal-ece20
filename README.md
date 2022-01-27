@@ -46,7 +46,7 @@
  
  <hr>
  
-<h3> :zap: Recent GitHub Activity </h3>
+## :zap: Recent GitHub Activity 
   <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com/Ankur-Agrawal-ece20/Polygot-CPP/pull/1) in [Ankur-Agrawal-ece20/Polygot-CPP](https://github.com/Ankur-Agrawal-ece20/Polygot-CPP)
 2. 💪 Opened PR [#1](https://github.com/Ankur-Agrawal-ece20/Polygot-CPP/pull/1) in [Ankur-Agrawal-ece20/Polygot-CPP](https://github.com/Ankur-Agrawal-ece20/Polygot-CPP)
