@@ -60,9 +60,9 @@
  
 ## :zap: Recent GitHub Activity 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Ankur-Agrawal-ece20/Polygot-CPP/pull/1) in [Ankur-Agrawal-ece20/Polygot-CPP](https://github.com/Ankur-Agrawal-ece20/Polygot-CPP)
-2. 💪 Opened PR [#1](https://github.com/Ankur-Agrawal-ece20/Polygot-CPP/pull/1) in [Ankur-Agrawal-ece20/Polygot-CPP](https://github.com/Ankur-Agrawal-ece20/Polygot-CPP)
-3. 💪 Opened PR [#3](https://github.com/SanidhyaTaparia/WeatherAppFrontend/pull/3) in [SanidhyaTaparia/WeatherAppFrontend](https://github.com/SanidhyaTaparia/WeatherAppFrontend)
+1. ❗️ Opened issue [#2870](https://github.com/CircuitVerse/CircuitVerse/issues/2870) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
+2. ❌ Closed PR [#1](https://github.com/Ankur-Agrawal-ece20/Polygot-CPP/pull/1) in [Ankur-Agrawal-ece20/Polygot-CPP](https://github.com/Ankur-Agrawal-ece20/Polygot-CPP)
+3. 💪 Opened PR [#1](https://github.com/Ankur-Agrawal-ece20/Polygot-CPP/pull/1) in [Ankur-Agrawal-ece20/Polygot-CPP](https://github.com/Ankur-Agrawal-ece20/Polygot-CPP)
 4. 💪 Opened PR [#16](https://github.com/yashjain715-creater/CTF-platform/pull/16) in [yashjain715-creater/CTF-platform](https://github.com/yashjain715-creater/CTF-platform)
 5. 💪 Opened PR [#15](https://github.com/yashjain715-creater/CTF-platform/pull/15) in [yashjain715-creater/CTF-platform](https://github.com/yashjain715-creater/CTF-platform)
   <!--END_SECTION:activity-->
