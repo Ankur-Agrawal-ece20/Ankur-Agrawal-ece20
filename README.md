@@ -60,11 +60,11 @@
  
 ## :zap: Recent GitHub Activity 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2875](https://github.com/CircuitVerse/CircuitVerse/pull/2875) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
-2. 🗣 Commented on [#2864](https://github.com/CircuitVerse/CircuitVerse/issues/2864) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
-3. 🎉 Merged PR [#2](https://github.com/Ankur-Agrawal-ece20/Polygot-CPP/pull/2) in [Ankur-Agrawal-ece20/Polygot-CPP](https://github.com/Ankur-Agrawal-ece20/Polygot-CPP)
-4. ❗️ Opened issue [#2870](https://github.com/CircuitVerse/CircuitVerse/issues/2870) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
-5. 💪 Opened PR [#15](https://github.com/yashjain715-creater/CTF-platform/pull/15) in [yashjain715-creater/CTF-platform](https://github.com/yashjain715-creater/CTF-platform)
+1. 🗣 Commented on [#2875](https://github.com/CircuitVerse/CircuitVerse/issues/2875) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
+2. 💪 Opened PR [#2875](https://github.com/CircuitVerse/CircuitVerse/pull/2875) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
+3. 🗣 Commented on [#2864](https://github.com/CircuitVerse/CircuitVerse/issues/2864) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
+4. 🎉 Merged PR [#2](https://github.com/Ankur-Agrawal-ece20/Polygot-CPP/pull/2) in [Ankur-Agrawal-ece20/Polygot-CPP](https://github.com/Ankur-Agrawal-ece20/Polygot-CPP)
+5. ❗️ Opened issue [#2870](https://github.com/CircuitVerse/CircuitVerse/issues/2870) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
   <!--END_SECTION:activity-->
  
 <hr>
