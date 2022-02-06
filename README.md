@@ -60,11 +60,11 @@
  
 ## :zap: Recent GitHub Activity 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2894](https://github.com/CircuitVerse/CircuitVerse/issues/2894) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
-2. 💪 Opened PR [#2904](https://github.com/CircuitVerse/CircuitVerse/pull/2904) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
-3. 🗣 Commented on [#2894](https://github.com/CircuitVerse/CircuitVerse/issues/2894) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
-4. 💪 Opened PR [#2892](https://github.com/CircuitVerse/CircuitVerse/pull/2892) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
-5. 🗣 Commented on [#2890](https://github.com/CircuitVerse/CircuitVerse/issues/2890) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
+1. 🗣 Commented on [#2892](https://github.com/CircuitVerse/CircuitVerse/issues/2892) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
+2. 🗣 Commented on [#2894](https://github.com/CircuitVerse/CircuitVerse/issues/2894) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
+3. 💪 Opened PR [#2904](https://github.com/CircuitVerse/CircuitVerse/pull/2904) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
+4. 🗣 Commented on [#2894](https://github.com/CircuitVerse/CircuitVerse/issues/2894) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
+5. 💪 Opened PR [#2892](https://github.com/CircuitVerse/CircuitVerse/pull/2892) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
   <!--END_SECTION:activity-->
  
 <hr>
