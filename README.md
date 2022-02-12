@@ -60,11 +60,11 @@
  
 ## :zap: Recent GitHub Activity 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/issues/3) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
-2. ❗️ Closed issue [#3](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/issues/3) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
-3. 🗣 Commented on [#2892](https://github.com/CircuitVerse/CircuitVerse/issues/2892) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
-4. 🗣 Commented on [#2894](https://github.com/CircuitVerse/CircuitVerse/issues/2894) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
-5. 💪 Opened PR [#2904](https://github.com/CircuitVerse/CircuitVerse/pull/2904) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
+1. ❌ Closed PR [#4](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/pull/4) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
+2. 🗣 Commented on [#3](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/issues/3) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
+3. ❗️ Closed issue [#3](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/issues/3) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
+4. 🗣 Commented on [#2892](https://github.com/CircuitVerse/CircuitVerse/issues/2892) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
+5. 🗣 Commented on [#2894](https://github.com/CircuitVerse/CircuitVerse/issues/2894) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
   <!--END_SECTION:activity-->
  
 <hr>
