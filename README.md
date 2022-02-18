@@ -60,11 +60,11 @@
  
 ## :zap: Recent GitHub Activity 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/issues/7) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
-2. 🗣 Commented on [#16](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/issues/16) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
-3. 🗣 Commented on [#15](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/issues/15) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
-4. ❌ Closed PR [#14](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/pull/14) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
-5. 🗣 Commented on [#14](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/issues/14) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
+1. 🗣 Commented on [#12](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/issues/12) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
+2. 🗣 Commented on [#13](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/issues/13) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
+3. 🗣 Commented on [#17](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/issues/17) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
+4. 🗣 Commented on [#18](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/issues/18) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
+5. ❌ Closed PR [#20](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/pull/20) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
   <!--END_SECTION:activity-->
  
 <hr>
