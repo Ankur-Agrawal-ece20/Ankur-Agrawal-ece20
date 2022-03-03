@@ -60,11 +60,11 @@
  
 ## :zap: Recent GitHub Activity 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Spardha-IIT-BHU/Spardha21-Backend/pull/4) in [Spardha-IIT-BHU/Spardha21-Backend](https://github.com/Spardha-IIT-BHU/Spardha21-Backend)
-2. 💪 Opened PR [#4](https://github.com/Spardha-IIT-BHU/Spardha22-Backend/pull/4) in [Spardha-IIT-BHU/Spardha22-Backend](https://github.com/Spardha-IIT-BHU/Spardha22-Backend)
-3. ❌ Closed PR [#11](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/pull/11) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
-4. 🗣 Commented on [#22](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/issues/22) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
-5. 🗣 Commented on [#12](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/issues/12) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
+1. 🎉 Merged PR [#5](https://github.com/Spardha-IIT-BHU/Spardha21-Backend/pull/5) in [Spardha-IIT-BHU/Spardha21-Backend](https://github.com/Spardha-IIT-BHU/Spardha21-Backend)
+2. 🎉 Merged PR [#4](https://github.com/Spardha-IIT-BHU/Spardha21-Backend/pull/4) in [Spardha-IIT-BHU/Spardha21-Backend](https://github.com/Spardha-IIT-BHU/Spardha21-Backend)
+3. 💪 Opened PR [#4](https://github.com/Spardha-IIT-BHU/Spardha22-Backend/pull/4) in [Spardha-IIT-BHU/Spardha22-Backend](https://github.com/Spardha-IIT-BHU/Spardha22-Backend)
+4. ❌ Closed PR [#11](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/pull/11) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
+5. 🗣 Commented on [#22](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/issues/22) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
   <!--END_SECTION:activity-->
  
 <hr>
