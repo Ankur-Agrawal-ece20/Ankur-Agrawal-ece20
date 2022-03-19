@@ -60,11 +60,11 @@
  
 ## :zap: Recent GitHub Activity 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/Spardha-IIT-BHU/Spardha21-Backend/pull/22) in [Spardha-IIT-BHU/Spardha21-Backend](https://github.com/Spardha-IIT-BHU/Spardha21-Backend)
-2. 🎉 Merged PR [#21](https://github.com/Spardha-IIT-BHU/Spardha21-Backend/pull/21) in [Spardha-IIT-BHU/Spardha21-Backend](https://github.com/Spardha-IIT-BHU/Spardha21-Backend)
-3. ❗️ Closed issue [#18](https://github.com/Spardha-IIT-BHU/Spardha21-Backend/issues/18) in [Spardha-IIT-BHU/Spardha21-Backend](https://github.com/Spardha-IIT-BHU/Spardha21-Backend)
-4. 💪 Opened PR [#21](https://github.com/Spardha-IIT-BHU/Spardha21-Backend/pull/21) in [Spardha-IIT-BHU/Spardha21-Backend](https://github.com/Spardha-IIT-BHU/Spardha21-Backend)
-5. 🗣 Commented on [#20](https://github.com/Spardha-IIT-BHU/Spardha21-Backend/issues/20) in [Spardha-IIT-BHU/Spardha21-Backend](https://github.com/Spardha-IIT-BHU/Spardha21-Backend)
+1. 🎉 Merged PR [#23](https://github.com/Spardha-IIT-BHU/Spardha21-Backend/pull/23) in [Spardha-IIT-BHU/Spardha21-Backend](https://github.com/Spardha-IIT-BHU/Spardha21-Backend)
+2. 🎉 Merged PR [#22](https://github.com/Spardha-IIT-BHU/Spardha21-Backend/pull/22) in [Spardha-IIT-BHU/Spardha21-Backend](https://github.com/Spardha-IIT-BHU/Spardha21-Backend)
+3. 🎉 Merged PR [#21](https://github.com/Spardha-IIT-BHU/Spardha21-Backend/pull/21) in [Spardha-IIT-BHU/Spardha21-Backend](https://github.com/Spardha-IIT-BHU/Spardha21-Backend)
+4. ❗️ Closed issue [#18](https://github.com/Spardha-IIT-BHU/Spardha21-Backend/issues/18) in [Spardha-IIT-BHU/Spardha21-Backend](https://github.com/Spardha-IIT-BHU/Spardha21-Backend)
+5. 💪 Opened PR [#21](https://github.com/Spardha-IIT-BHU/Spardha21-Backend/pull/21) in [Spardha-IIT-BHU/Spardha21-Backend](https://github.com/Spardha-IIT-BHU/Spardha21-Backend)
   <!--END_SECTION:activity-->
  
 <hr>
