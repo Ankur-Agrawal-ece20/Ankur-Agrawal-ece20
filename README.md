@@ -1,11 +1,15 @@
 
-<h1> Hi there, I'm Ankur Agrawal - aka <a href="https://ankur-agrawal-site.netlify.app/">Ankur<a> 👋 </h1>
+<h1> 
+ Hi there, I'm Ankur Agrawal - aka <a href="https://ankur-agrawal-site.netlify.app/">Ankur<a> 👋 
+</h1>
 
-[![CoderResume](https://img.shields.io/website?label=Coder&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/src/CodingUreify.pdf)
-[![DeveloperResume](https://img.shields.io/website?label=Developer&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/)
-[![RoboticsResume](https://img.shields.io/website?label=Robotics&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/src/RoboticsUreify.pdf)
-
-
+ 
+[![Coder Badge](https://img.shields.io/website?label=Coder&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](#)
+[![Developer Badge](https://img.shields.io/website?label=Developer&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](#)
+[![Robotics Badge](https://img.shields.io/website?label=Robotics&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](#)
+ [![Machine Learning Badge](https://img.shields.io/website?label=ML&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](#)
+[![Download Resume](https://custom-icon-badges.herokuapp.com/badge/-Resume-blue?style=for-the-badge&logo=download&logoColor=white "Download Resume")](https://drive.google.com/file/d/18IlUuAkN3TOqx6xDd6JCFPpaVhW0SaDu/view?usp=sharing)
+ 
 ## I'm a Full Stack Web-Developer,  Competitive Programmer, and Robotics enthusiast!! 
 
 - 🔭 I am a currently pursuing [B.Tech. in Electronics Engr. from IIT BHU][course]!
